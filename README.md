@@ -9,13 +9,25 @@ THIS IS COVERED UNDER THE PROTO LICENSE
 
 
 # LICENSE
-This work is under the ' PRES LICENSE'
-You're allowed to run this program in a private setting
-This program is not allowed to be used in these circumstances, these are AS IS and in any type of circumstance that is mentioned here, anything not listed is regarded as a no use scenario unless it's for public safety, education or a learning case :
+This work is under the **MIT LICENSE**
+Provided is the license aspects and description:
 
-Public use if not for safety education or a learning scenario.
+Copyright (c) 2021 mango
 
-Claiming it is yours or the code belongs to you / your / any organization (if you are belonging to it or not)
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-You're only allowed to use it in blacklisted scenarios if you contact me at mangoess#7894 for a request of permission
-Permission will be given in a written document signed with your name / penname / organization and must be held by both parties.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
