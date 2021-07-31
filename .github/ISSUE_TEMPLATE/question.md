@@ -9,4 +9,4 @@ assignees: mangoess
 
 **Question:**
 
-(You can also friend me at mangoess#7894 on Discord, You should only fill this if you don't have the software or want to use this instead)
+(You can also join my Discord server https://discord.gg/MyjJGfkt54, You should only fill this if you don't have Discord or want to use this instead)
