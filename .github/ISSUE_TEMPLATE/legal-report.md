@@ -7,5 +7,5 @@ assignees: mangoess
 
 ---
 
-Sorry that you have to fill this out, reach out to me on Discord at mangoess#7894 If you have the software
+Sorry that you have to fill this out, reach out to me on Discord at https://discord.gg/MyjJGfkt54 If you have discord
 If not, please write about the issue you are reporting to me.
